@@ -1,0 +1,13 @@
+C:\Users\User\Documents\Projetos C#\xadrez_console\xadrez_console\obj\Debug\netcoreapp3.1\xadrez_console.csprojAssemblyReference.cache
+C:\Users\User\Documents\Projetos C#\xadrez_console\xadrez_console\obj\Debug\netcoreapp3.1\xadrez_console.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Projetos C#\xadrez_console\xadrez_console\obj\Debug\netcoreapp3.1\xadrez_console.AssemblyInfo.cs
+C:\Users\User\Documents\Projetos C#\xadrez_console\xadrez_console\obj\Debug\netcoreapp3.1\xadrez_console.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Projetos C#\xadrez_console\xadrez_console\bin\Debug\netcoreapp3.1\xadrez_console.exe
+C:\Users\User\Documents\Projetos C#\xadrez_console\xadrez_console\bin\Debug\netcoreapp3.1\xadrez_console.deps.json
+C:\Users\User\Documents\Projetos C#\xadrez_console\xadrez_console\bin\Debug\netcoreapp3.1\xadrez_console.runtimeconfig.json
+C:\Users\User\Documents\Projetos C#\xadrez_console\xadrez_console\bin\Debug\netcoreapp3.1\xadrez_console.runtimeconfig.dev.json
+C:\Users\User\Documents\Projetos C#\xadrez_console\xadrez_console\bin\Debug\netcoreapp3.1\xadrez_console.dll
+C:\Users\User\Documents\Projetos C#\xadrez_console\xadrez_console\bin\Debug\netcoreapp3.1\xadrez_console.pdb
+C:\Users\User\Documents\Projetos C#\xadrez_console\xadrez_console\obj\Debug\netcoreapp3.1\xadrez_console.dll
+C:\Users\User\Documents\Projetos C#\xadrez_console\xadrez_console\obj\Debug\netcoreapp3.1\xadrez_console.pdb
+C:\Users\User\Documents\Projetos C#\xadrez_console\xadrez_console\obj\Debug\netcoreapp3.1\xadrez_console.genruntimeconfig.cache
